@@ -1,0 +1,1 @@
+with the XMLHttpRequest object you can update parts of a web page,without reloading thw whole page.
